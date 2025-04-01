@@ -59,34 +59,8 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodGD-Dev&layout=compact&theme=radical)
 
 
-### 🚧 Projetos Principais
-
-*(Aqui você pode adicionar seus principais projetos com descrições curtas e links)*
-
-<div align="center">
-  <a href="https://github.com/GoodGD/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GoodGD&repo=SEU_REPOSITORIO&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/GoodGD/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GoodGD&repo=SEU_REPOSITORIO&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ### 🔥 Sequência de Contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GoodGD-Dev&theme=radical&hide_border=true)
 ---
 
-### 🏆 Troféus do GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GoodGD-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GoodGD-Dev&show_icons=true&theme=tokyonight&count_private=true)
-
-
----
-
-⭐️ De [Dionatha Goulart](https://github.com/GoodGD)
