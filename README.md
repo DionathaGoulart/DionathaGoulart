@@ -53,14 +53,11 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodGD&theme=tokyonight" alt="GoodGD" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoodGD&theme=tokyonight" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
 
----
 
 ### 🚧 Projetos Principais
 
