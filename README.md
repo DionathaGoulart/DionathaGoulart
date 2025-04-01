@@ -74,19 +74,18 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 
 ---
 
-### 📈 Contribuições
+### 🔥 Sequência de Contribuições
 
-![Snake animation](https://github.com/GoodGD/GoodGD/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=GoodGD-Dev&theme=radical&hide_border=true)
 ---
 
-### 🏆 Troféus GitHub
+### 🏆 Troféus do GitHub
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GoodGD&theme=onedark&row=1" alt="GoodGD" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=GoodGD-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GoodGD-Dev&show_icons=true&theme=tokyonight&count_private=true)
+
 
 ---
 
