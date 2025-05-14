@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "JetBrains Mono", monospace, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+}
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#hyprland,
+#neovim,
+#qutebrowser {
+  scroll-margin-top: 5rem;
+}
+
+/* Media query para monitores verticais */
+@media (orientation: portrait) {
+  .app-container {
+    padding: 0;
+  }
+}

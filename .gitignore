@@ -1,0 +1,64 @@
+ Dependências
+notes/React-notes/node_modules
+/.pnp
+.pnp.js
+
+# Testes
+/coverage
+
+# Produção
+notes/React-notes/build
+notes/React-notes/dist
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.swp
+*.swo
+.tmp
+.temp
+
+# Arquivos de configuração do editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# Arquivos de pacote
+*.tgz
+*.tar.gz
+
+# Diretórios específicos do projeto
+# Adicione seus diretórios específicos aqui
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de bloqueio (escolha apenas o que você usa)
+# package-lock.json
+# yarn.lock
+# Descomente aquele que não usa se quiser ignorá-lo
+
+# Cache
+.cache/
+.webpack/
+.next/
