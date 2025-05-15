@@ -1,0 +1,69 @@
+# ─────── Atalhos de teclado ───────
+
+# Atalho para colar texto com Ctrl+Shift+V
+[[keyboard.bindings]]
+action = "Paste"
+key = "V"
+mods = "Control|Shift"
+
+# Atalho para copiar texto com Ctrl+Shift+C
+[[keyboard.bindings]]
+action = "Copy"
+key = "C"
+mods = "Control|Shift"
+
+# ─────── Cores do terminal ───────
+
+[colors.bright]
+black   = "#414868"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#bb9af7"
+cyan    = "#7dcfff"
+white   = "#c0caf5"
+
+# Cores normais (padrão do terminal)
+[colors.normal]
+black   = "#15161e"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#bb9af7"
+cyan    = "#7dcfff"
+white   = "#a9b1d6"
+
+# Cor de fundo e texto principal
+[colors.primary]
+background = "#1a1b26"   # fundo
+foreground = "#c0caf5"   # texto
+
+# ─────── Fonte ───────
+
+[font]
+size = 12.0  # Tamanho da fonte em pixels
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+style = "Regular"              # Estilo: Regular, Bold, Italic, etc
+
+
+[font.offset]
+x = 0  # deslocamento horizontal (pode ajustar o espaçamento)
+y = 1  # deslocamento vertical (pode levantar ou abaixar a fonte)
+
+# ─────── Janela ───────
+
+[window]
+decorations = "none"  # Sem bordas de janela (ideal pro Hyprland)
+opacity = 0.9         # Transparência da janela (0.0 a 1.0)
+
+[window.dimensions]
+columns = 100  # Número de colunas iniciais
+lines = 30     # Número de linhas iniciais
+
+[window.padding]
+x = 12  # Espaço horizontal entre a borda da janela e o texto
+y = 12  # Espaço vertical entre a borda da janela e o texto
