@@ -69,8 +69,8 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DionathaGoulart-Dev&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DionathaGoulart-Dev&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DionathaGoulart&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DionathaGoulart&layout=compact&theme=radical)
 
 
 ### 🔥 Sequência de Contribuições
