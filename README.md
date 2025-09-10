@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dionatha%20Goulart-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionatha-goulart/)](https://www.linkedin.com/in/dionatha-goulart/)
 [![Gmail Badge](https://img.shields.io/badge/-dionatha.work@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dionatha.work@gmail.com)](mailto:dionatha.work@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GoodGD-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/GoodGD)](https://github.com/GoodGD)
+[![GitHub Badge](https://img.shields.io/badge/-DionathaGoulart-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/DionathaGoulart)](https://github.com/DionathaGoulart)
 
 ## 🚀 Desenvolvedor Fullstack
 
@@ -69,12 +69,12 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GoodGD-Dev&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodGD-Dev&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DionathaGoulart-Dev&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DionathaGoulart-Dev&layout=compact&theme=radical)
 
 
 ### 🔥 Sequência de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GoodGD-Dev&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DionathaGoulart-Dev&theme=radical&hide_border=true)
 ---
 
