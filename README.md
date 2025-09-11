@@ -75,6 +75,6 @@ A resolução de problemas e o aprendizado contínuo são meus principais motiva
 
 ### 🔥 Sequência de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DionathaGoulart-Dev&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DionathaGoulart&theme=radical&hide_border=true)
 ---
 
