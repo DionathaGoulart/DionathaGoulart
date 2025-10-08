@@ -9,9 +9,11 @@
 
 ### 💫 Sobre Mim
 
-Desenvolvedor fullstack apaixonado por criar soluções tecnológicas que fazem a diferença. Combino conhecimentos em front-end e back-end para desenvolver aplicações completas e eficientes.
+Desenvolvedor fullstack em início de carreira com experiência prática em projetos reais e forte capacidade de aprendizado. 
+Busco uma oportunidade para evoluir tecnicamente, trabalhar com profissionais experientes e contribuir com código de qualidade. Não tenho medo de desafios complexos — na verdade, eles são minha principal motivação.
 
-A resolução de problemas e o aprendizado contínuo são meus principais motivadores. Com formação em desenvolvimento fullstack pela EBAC, busco constantemente aprimorar minhas habilidades técnicas e implementar as melhores práticas do mercado.
+**O que me define:** Curiosidade técnica insaciável, capacidade de aprender rapidamente e comprometimento em transformar problemas em soluções funcionais.
+
 
 - 🎓 Formação: **Desenvolvedor Full Stack Python - EBAC**
 - 📍 Localização: **Alvorada/RS - Brasil**
