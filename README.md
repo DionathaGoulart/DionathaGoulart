@@ -5,8 +5,6 @@
 
 ## 🚀 Desenvolvedor Fullstack
 
-<img align="right" width="300" src="https://dionatha.com.br/assets/me-BkInRQPI.jpg?as=webp&width=400" />
-
 ### 💫 Sobre Mim
 
 Desenvolvedor fullstack em início de carreira com experiência prática em projetos reais e forte capacidade de aprendizado. 
